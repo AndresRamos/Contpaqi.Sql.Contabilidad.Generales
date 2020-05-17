@@ -8,7 +8,7 @@
 		<owners>$author$</owners>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<license type="expression">MIT</license>
-		<projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+		<projectUrl>https://github.com/AndresRamos/Contpaqi.Sql.Contabilidad.Generales</projectUrl>
 		<description>$description$</description>
 		<releaseNotes>$description$</releaseNotes>
 		<copyright>$copyright$</copyright>
