@@ -9,8 +9,9 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<license type="expression">MIT</license>
 		<projectUrl>https://github.com/AndresRamos/Contpaqi.Sql.Contabilidad.Generales</projectUrl>
+		<repository type="git" url="https://github.com/AndresRamos/Contpaqi.Sql.Contabilidad.Generales"/>
 		<description>$description$</description>
-		<releaseNotes>$description$</releaseNotes>
+		<releaseNotes>Se actualizo el modelo de datos de la base de datos generales de CONTPAQi Contabiliad version 13.1.1 </releaseNotes>
 		<copyright>$copyright$</copyright>
 		<tags>Contpaqi SQL Contabilidad</tags>
 	</metadata>

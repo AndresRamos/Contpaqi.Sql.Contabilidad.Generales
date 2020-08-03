@@ -7,11 +7,11 @@ namespace Contpaqi.Sql.Contabilidad.Generales
 {
     public class ContabilidadGeneralesDbContext : DbContext
     {
-        protected ContabilidadGeneralesDbContext()
+        public ContabilidadGeneralesDbContext()
         {
         }
 
-        protected ContabilidadGeneralesDbContext(DbCompiledModel model) : base(model)
+        public ContabilidadGeneralesDbContext(DbCompiledModel model) : base(model)
         {
         }
 
